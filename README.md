@@ -1,3 +1,1 @@
 # colab and molab
-
-мракобесие
